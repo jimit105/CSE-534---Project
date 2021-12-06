@@ -14,3 +14,8 @@ The dataset can be downloaded from https://distrinet.cs.kuleuven.be/software/tor
   
 Once the dataset is download, unzip the `.npz` file and copy the extracted files (`data.npy` and `labels.npy`) in the `./data/` folder.
 
+## Contributors
+Jimit Dholakia - [jimit105](https://github.com/jimit105)  
+Yasharth Sharma - [Yasharthsh](https://github.com/Yasharthsh)  
+Sai Manikanta Avula - [SaiManikantaAvula](https://github.com/SaiManikantaAvula)
+
